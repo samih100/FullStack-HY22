@@ -1,0 +1,4 @@
+Tehtävän 0.5 sekvenssikaavio löytyy websequencediagrams.com palvelusta osoitteesta:
+
+
+pdf-tiedosto löytyy nimellä: FullStack_0.5.pdf
